@@ -112,6 +112,7 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>demo-keycloak</finalName>
   </build>
 
 </project>
