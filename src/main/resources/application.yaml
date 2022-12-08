@@ -1,0 +1,6 @@
+keycloak:
+  realm: SpringBootKeycloak
+  auth-server-url: http://localhost:80
+  resource: demo-keycloak
+  public-client: true
+  bearer-only: true
